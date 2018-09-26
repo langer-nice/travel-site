@@ -5,3 +5,5 @@ john.greet();
 
 var jane = new Person("Emma Vic", "green");
 jane.greet();
+
+console.log('hello')
